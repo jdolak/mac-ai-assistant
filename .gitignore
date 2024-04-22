@@ -1,0 +1,8 @@
+**/.venv
+**/.env
+**/test.py
+**/response*.md
+execute.scpt
+**/.DS_Store
+**/*.log
+**/*output*.md
